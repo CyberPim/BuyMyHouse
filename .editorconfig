@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'C:\Users\win 10\OneDrive - Hogeschool Inholland\Jaar 4!!!!!! Bijna klaar\Cloud database\BuyMyHouse\DAL\obj\Debug\net6.0\ref\DAL.dll' could not be found
+dotnet_diagnostic.CS0006.severity = none
